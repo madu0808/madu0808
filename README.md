@@ -1,25 +1,22 @@
-## oi pessoal;)!
-Aluna em tecnico de informatica do SENAI FIEMG
-- <b>Linguagens:</b> C#, Python e Ruby 
-- <b>Frameworks:</b> Angular, Bootstrap, Ruby On Rails e Zurb Foundation
-- <b>Ambiente:</b> Docker e Kubernetes
-- <b>Versionamento:</b> Git e Azure Repos DevOps
-- <b>Banco de Dados:</b> SQL Server e Oracle
+## oi pessoal;)!🌺
+Meu nome Maria Eduarda Morais Dias **17 anos**
+- Atualmente,sou aluna do curso **Informatica para internet ** no **SENAI**,Ipatiga MG
 
+## Materis estudadas
+- [x] COMUNICAÇÃO E REDAÇÃO TÉCNICA
+- [x] INFORMÁTICA APLICADA
+- [x] FUNDAMENTOS DE TECNOLOGIA DA INFORMAÇÃO
+- [x] lÓGICA DE PROGRAMAÇÃO
+- [x] PROJETO DE INOVAÇÃO
 
-
-
-<!--
-**madu0808/madu0808** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Em andamento
+- [X] PROJETO DE INTERFACE WEB
+- [X] PROGRAMAÇÃO CLIENT-SIDE
+- [X] TESTE DE FRONT-END
+- [X] PROJETO DE INOVAÇÃO: MODELAGEM DE PROJETOS – DESIGN THINKING E CANVAS
+- [X] BANCO DE DADOS
+- [x] DESENVOLVIMENTO DE SISTEMAS WEB
+- [x] TESTE DE BACK-END
+- [x] IMPLANTAÇÃO DE SISTEMA WEB
+- [x] PROJETO DE INOVAÇÃO: MINDSET EMPREENDEDOR E PROTOTIPAÇÃO
+- [x] PROJETO DE INOVAÇÃO: TRABALHO DE CONCLUSÃO DO CURSO
