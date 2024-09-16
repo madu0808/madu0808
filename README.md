@@ -1,4 +1,13 @@
-## Hi there 👋
+## oi pessoal;)!
+Aluna em tecnico de informatica do SENAI FIEMG
+- <b>Linguagens:</b> C#, Python e Ruby 
+- <b>Frameworks:</b> Angular, Bootstrap, Ruby On Rails e Zurb Foundation
+- <b>Ambiente:</b> Docker e Kubernetes
+- <b>Versionamento:</b> Git e Azure Repos DevOps
+- <b>Banco de Dados:</b> SQL Server e Oracle
+
+
+
 
 <!--
 **madu0808/madu0808** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
